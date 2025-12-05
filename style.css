@@ -83,7 +83,7 @@ h2{
     font-size: 20px;
     padding-left: 10px;
     color: #00ccff;
-}
+    }
 ::placeholder {
     font-size: 15px;
     color: #00ccff52;
@@ -128,3 +128,10 @@ i {
 .glowIcon {
     text-shadow: 0 0 10px #00ccff;
 }
+#login-button a:hover {
+  border: 1px solid #0400ff;
+  background-color: #0400ff;
+  color: #f0f6f8;
+  font-weight: 500;
+  box-shadow: 5px 2px #ff00f2;
+}/*# sourceMappingURL=style.css.map */
